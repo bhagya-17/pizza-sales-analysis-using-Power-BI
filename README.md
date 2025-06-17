@@ -1,24 +1,42 @@
 # pizza-sales-analysis-using-Power-BI
 
+## 📊 Pizza Sales Dashboard – Power BI
 
-# 🍕 Pizza Sales Analysis
+This Power BI report provides a visual representation of the pizza sales dataset, offering actionable insights through interactive charts and dashboards.
 
-This project contains a Power BI report analyzing pizza sales using sales data. It provides insights on:
+### 🔍 Key Visual Insights
 
-- 📊 Top-selling pizzas by quantity and revenue
-- 🕒 Time-based sales trends (hourly, daily, monthly)
-- 📍 Sales by location
-- 🧾 Order details and customer behavior
+* **Top-Selling Pizzas**
+  Identify the best-performing pizza types based on revenue and quantity sold.
 
-## 📁 Contents
+* **Daily & Monthly Order Trends**
+  Spot peaks and patterns in customer orders over time.
 
-- `Pizza Sales.pbix`: Power BI dashboard
-- `pictures/`: Folder containing all images used in the report
-- `data/`: (Add if you have raw data files used)
+* **Sales by Category and Size**
+  Understand which pizza categories and sizes are generating the most revenue.
 
-## 📷 Snapshots
+* **KPI Cards**
 
-Include screenshots of your report from the `pictures` folder here using:
+  * ✅ Total Revenue
+  * ✅ Total Orders
+  * ✅ Average Order Value
+  * ✅ Total Pizzas Sold
+  * ✅ Average Pizzas Per Order
 
-```md
-![Report Overview](pictures/overview.png)
+* **Funnel Chart / Bar Chart**
+  Showcases the performance of different products (e.g., by quantity or revenue).
+
+### 🎯 Objective
+
+To convert raw pizza sales data into a meaningful, business-friendly dashboard for restaurant owners and analysts to make informed decisions.
+
+### 🛠 Tools Used
+
+* **Power BI Desktop**
+* **DAX**
+* **Power Query (for data cleaning & shaping)**
+
+### 📁 File
+
+* `pizza_dashboard.pbix` – Power BI dashboard file
+
